@@ -24,7 +24,7 @@ The following **required** functionality is complete:
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user interface:
-<a href ="http://g.recordit.co/1qhpSKCNiK.gif" target = "blank" />
+<a href ="http://g.recordit.co/1qhpSKCNiK.gif" target = "blank" /> Video Link
 
 GIF created with RecordIt
 
