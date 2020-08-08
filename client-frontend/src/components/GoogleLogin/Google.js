@@ -47,7 +47,7 @@ export class Google extends Component {
     } else {
     googleContent = (
         <GoogleLogin
-          clientId= "818211424917-hfklmohstjs20odi1f94vd2o2lcm78ho.apps.googleusercontent.com"          
+          clientId= "" // removed clientID for security reasons     
           render={renderProps => (
             <button className  = "btnGoogle" onClick={renderProps.onClick} disabled={renderProps.disabled}>Login with Google</button>
           )}
