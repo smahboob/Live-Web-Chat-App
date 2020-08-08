@@ -24,8 +24,8 @@ The following **required** functionality is complete:
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user interface:
-
-<img src='http://g.recordit.co/1qhpSKCNiK.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+http://g.recordit.co/1qhpSKCNiK.gif
+<img src='http://g.recordit.co/1qhpSKCNiK.gif' title='Video Walkthrough' alt='Video Walkthrough' />
 
 GIF created with RecordIt
 
