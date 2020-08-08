@@ -25,7 +25,7 @@ The following **required** functionality is complete:
 
 Here's a walkthrough of implemented user interface:
 
-<img src='http://g.recordit.co/1qhpSKCNiK.gif?fbclid=IwAR2GswYrYnVnyYNl8vDkMG_nnCN8Gu9IKkSHk4D5Y-V4x69UpmXPCTZxw-U' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/1qhpSKCNiK.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with RecordIt
 
