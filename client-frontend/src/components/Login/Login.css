@@ -18,7 +18,7 @@ body {
 	font-family: 'Roboto', sans-serif;
 	font-size: 16px;
 	margin: 20px;
-	
+	background: linear-gradient(110deg, #fdcd3b 60%, #ffed4b 60%);
 }
 
 ul {
@@ -64,38 +64,14 @@ a {
 	margin: 80px auto;
 	color: #fff;
 	background-color: white;
-	border-radius: 5px;
+	border-radius: 7px;
+	border: 1px solid black;
 }
 
-.btnFacebook{
-	cursor: pointer;
-	width: 400px;
-    height: 35px;  
-    border-radius: 4px;
-    background: #3b5998;
-    color:white;
-    border:0px transparent;  
-    text-align: center;
-    margin:5px;
-    display: inline-block;
-}
 
 .imgShow{
 
     border-radius: 40%;
-}
-
-.btnGoogle{
-	cursor: pointer;
-	width: 400px;
-    height: 35px;  
-    border-radius: 4px;
-    background-color: #d9534f;
-    color:white;
-    border:0px transparent;  
-    text-align: center;
-    margin:5px;
-	display: inline-block;
 }
 
 
@@ -105,16 +81,11 @@ a {
 	cursor: pointer;
 }
 
-.btnFacebook:hover{
-	background: #3b5998;
-	opacity: 0.8;
-}
-
 
 .join-main {
 	padding: 30px 40px;
 	background-color: coral;
-	border-radius: 5px;
+	border-radius: 7px;
 	background-color: white;
 	text-align: center;
 }

@@ -17,7 +17,7 @@ const Login = () => {
             <form>
 
                 <div className="form-control">
-                    <h1 className = "room">Welcome Back</h1>
+                    <h1 className = "room">Welcome Back to DevChat</h1>
                     <Facebook setName = {setName} ></Facebook>
                     <Google setName = {setName}></Google>
                 </div>
@@ -40,7 +40,7 @@ const Login = () => {
                 <Link onClick = {e => {
                         if(!name){
                             e.preventDefault();
-                            alert("Enter Username")
+                            alert("Login with Facebook/Google to proceed.")
                         }
                     }} 
                     

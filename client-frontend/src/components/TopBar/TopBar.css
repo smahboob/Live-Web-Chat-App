@@ -1,5 +1,5 @@
 .chat-header {
-	background: var(--dark-color-a);
+	background-color: firebrick;
 	color: #fff;
 	border-top-left-radius: 5px;
 	border-top-right-radius: 5px;
@@ -7,4 +7,21 @@
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
+}
+
+
+.btn1 {
+	cursor: pointer;
+	padding: 5px 15px;
+	background-color: rgb(203, 106, 106);
+	color: white;
+	border: 0;
+	font-size: 17px;
+	border-radius: 4px;
+}
+
+.btn1:hover{
+	cursor: pointer;
+	background-color: rgb(203, 106, 106);
+	opacity: 0.8;
 }

@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import FacebookLogin from 'react-facebook-login';
+import './Facebook.css';
 
 export class Facebook extends Component {
 
@@ -47,7 +48,7 @@ export class Facebook extends Component {
     } else {
       fbContent = (
         <FacebookLogin
-          appId="" //removed id for secutiry reasons
+          appId="427364984831877"
           autoLoad={true}
           fields="name,email,picture"
           onClick={this.componentClicked}

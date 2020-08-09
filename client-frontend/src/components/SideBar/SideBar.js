@@ -9,9 +9,9 @@ const SideBar = ({ room , users}) => (
         {
       users
         ? (
-          <div>
+          <div >
             <div >
-              <h4>
+              <h4 className = "userChat">
                 {users.map(({name}) => (
                   <div key={name}>
                     {name}

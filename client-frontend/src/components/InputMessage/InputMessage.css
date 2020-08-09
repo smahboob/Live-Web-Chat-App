@@ -1,15 +1,37 @@
+
 .chat-form-container {
 	padding: 20px 30px;
-    background-color: var(--dark-color-a);
-    width: auto;
+	background-color: firebrick;
+	border-top: 1px solid white;
 }
 
 .chat-form-container form {
 	display: flex;
 }
+
+.chat-form-container .btn{
+	cursor: pointer;
+	padding: 5px 15px;
+	background-color: rgb(203, 106, 106);
+	color: white;
+	margin-left: 20px;
+	border: 0;
+	font-size: 17px;
+	border-radius: 4px;
+	width: 120px;
+}
+
+.chat-form-container .btn:hover{
+	cursor: pointer;
+	background-color: rgb(203, 106, 106);
+	opacity: 0.8;
+}
+
 .chat-form-container input[type='text'] {
 	font-size: 16px;
 	padding: 5px;
 	height: 40px;
 	flex: 1;
+	border: 1px solid white;
+	border-radius: 4px;
 }

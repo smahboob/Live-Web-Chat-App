@@ -1,17 +1,17 @@
-.btnGoogle{
+.btnFacebook{
 	cursor: pointer;
 	width: 400px;
     height: 35px;  
     border-radius: 4px;
-    background-color: #d9534f;
+    background: #3b5998;
     color:white;
     border:0px transparent;  
     text-align: center;
     margin:5px;
-	display: inline-block;
+    display: inline-block;
 }
 
-.btnGoogle:hover{
-    background-color: #d9534f;
+.btnFacebook:hover{
+	background: #3b5998;
 	opacity: 0.8;
 }

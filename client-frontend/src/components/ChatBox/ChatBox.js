@@ -66,7 +66,7 @@ const ChatBox = ({location}) => {
         event.preventDefault();
 
         if(message){
-            socket.emit('messageSent', message, ()=> setMessage(''))
+            socket.emit('messageSent', message, () => setMessage(''))
         }
     }
 
