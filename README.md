@@ -25,9 +25,8 @@ The following **required** functionality is complete:
 
 Here's a walkthrough of implemented user interface:
 
-<a href ="http://g.recordit.co/iGRzQPPiqJ.gif" target = "_blank" /> Click to watch GIF of the Interface
+<a href ="https://recordit.co/iGRzQPPiqJ" target = "_blank" /> Click to watch App Demo!
 
-GIF created with RecordIt
 
 
 ## License
