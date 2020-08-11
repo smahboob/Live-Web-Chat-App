@@ -14,9 +14,10 @@ Submitted by: **Saad Mahboob**
 
 The following **required** functionality is complete:
 
-* [ ] User can log in using their google account or facebook account.
+* [ ] User can log in using their Google or Facebook account.
+* [ ] User cannot sign-in twice with same account on multiple windows in the same room.
 * [ ] User can select a room out of the 5 rooms.
-* [ ] Chats for each room are seperate and donot overlap
+* [ ] Chats for each room are seperate and donot overlap.
 * [ ] A notification message is sent by Admin to other users in the room whenever a user joins a room or leaves a room.
 * [ ] User can type emoji in text form and it will convert into emoji when the message is sent.
 * [ ] Messages sent are shown in blue background and messages recevied are shown in grey background.
@@ -26,8 +27,6 @@ The following **required** functionality is complete:
 Here's a walkthrough of implemented user interface:
 
 <a href ="https://recordit.co/iGRzQPPiqJ" target = "_blank" /> Click to watch App Demo!
-
-
 
 ## License
 
